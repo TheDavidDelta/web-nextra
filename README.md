@@ -1,6 +1,6 @@
 # TheDavidDelta personal webpage
 
-<img src="public/favicon-512x512.png" width="96" align="right">
+<img src="public/favicon-readme.png" width="96" align="right">
 
 [![Vercel Status](https://img.shields.io/github/deployments/TheDavidDelta/web-nextra/Production?label=vercel&logo=vercel&color=f5f5f5)](https://thedaviddelta.com/)
 [![License](https://img.shields.io/github/license/TheDavidDelta/web-nextra)](./LICENSE)
