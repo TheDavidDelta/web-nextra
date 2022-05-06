@@ -43,6 +43,8 @@ const CustomHead: FC<Props> = ({ customTitle, customDescription, customImg }) =>
 
             <meta property="twitter:card" content="summary" />
             <meta property="twitter:creator" content="@thedaviddelta" />
+
+            <link rel="me" href="https://fosstodon.org/@thedaviddelta" />
         </Head>
     );
 };
